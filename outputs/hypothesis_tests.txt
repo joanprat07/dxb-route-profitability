@@ -1,0 +1,16 @@
+                 Df    Sum Sq   Mean Sq F value Pr(>F)    
+Route_Category    2 3.904e+13 1.952e+13    1412 <2e-16 ***
+Residuals      7179 9.926e+13 1.383e+10                   
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+              Df    Sum Sq   Mean Sq F value Pr(>F)    
+Season         3 6.659e+12 2.220e+12     121 <2e-16 ***
+Residuals   7178 1.316e+14 1.834e+10                   
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+	Pearson's Chi-squared test
+
+data:  season_demand
+X-squared = 0.47694, df = 3, p-value = 0.9239
+
